@@ -42,7 +42,7 @@
 ### Contact Me
 
 <div>
-<a href="[in/hamid-reza-ab776423b](https://www.linkedin.com/in/hamid-reza-ab776423b/)" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="10%" title='Linkedin'/></a>
+<a href="https://www.linkedin.com/in/hamid-reza-ab776423b/" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="10%" title='Linkedin'/></a>
 <a href="https://t.me/Esfahani98" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
 </div>
   
