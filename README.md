@@ -20,6 +20,10 @@
   
   <img src ="/assets/images/sklearn.png" alt="machineLearning logo" width="10%" title='scikit-learn'/>
   
+  <img src ="/assets/images/tf.jpg" alt="machineLearning logo" width="10%" title='Tensorflow'/>
+  
+  <img src ="/assets/images/keras.png" alt="machineLearning logo" width="10%" title='Keras'/>
+  
   <img src ="/assets/images/matplotlib.jpg" alt="machineLearning logo" width="10%" title='Matplotlib'/>
   
   <img src ="/assets/images/seaborn.jpg" alt="machineLearning logo" width="10%"  title='Seaborn'/>
