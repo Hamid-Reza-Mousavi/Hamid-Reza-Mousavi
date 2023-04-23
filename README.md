@@ -37,7 +37,7 @@
 </div>
   
   
-![](/assets/gif/p.gif)
+![](/assets/gif/ai.gif)
 
 ### Contact Me
 
