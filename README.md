@@ -15,11 +15,14 @@
   <img src ="/assets/images/DL.jpg" alt="machineLearning logo" width="8%" height="5%" title='Deep learning'/>
   
   <img src ="/assets/images/pandas.png" alt="machineLearning logo" width="10%" title='Pandas'/>
+  
   <img src ="/assets/images/numpy.png" alt="machineLearning logo" width="10%"  title='Numpy'/>
+  
   <img src ="/assets/images/sklearn.png" alt="machineLearning logo" width="10%" title='scikit-learn'/>
+  
   <img src ="/assets/images/matplotlib.jpg" alt="machineLearning logo" width="10%" title='Matplotlib'/>
+  
   <img src ="/assets/images/seaborn.jpg" alt="machineLearning logo" width="10%"  title='Seaborn'/>
-
   
   <img src ="/assets/images/opencv.png" alt="opencv logo" width="10%" title='Opencv'/>
 </div>
