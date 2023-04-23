@@ -31,7 +31,7 @@
   
   <img src ="/assets/images/matplotlib.jpg" alt="machineLearning logo" width="10%" title='Matplotlib'/>
   
-  <img src ="/assets/images/scipy.png" alt="machineLearning logo" width="8%"  title='Scipy'/>
+  <img src ="/assets/images/scipy.png" alt="machineLearning logo" width="5%"  title='Scipy'/>
   
   <img src ="/assets/images/imblearn.png" alt="machineLearning logo" width="10%"  title='imbalanced-learn'/>
   
