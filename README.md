@@ -58,10 +58,13 @@
 ### Tools
 
 <div>
+  <img src ="/assets/images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='VScode'/>
   
+  <img src ="/assets/images/jupyter.png" alt="jupyter" width="5%" title='jupyter'/>
+
   <img src ="/assets/images/oop.png" alt="object oriented programming" width="5%" title='Object Oriented Programming'/>
   
-  <img src ="/assets/images/office.png" alt="VS Code logo" width="5%" title='Office'/>
+  <img src ="/assets/images/office.png" alt="office" width="5%" title='Office'/>
   
 </div>
 
