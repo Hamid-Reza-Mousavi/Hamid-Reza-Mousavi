@@ -12,7 +12,7 @@
 
   <img src ="/assets/images/machineLearning.png" alt="machineLearning logo" width="8%" title='Machine learning'/>
   
-  <img src ="/assets/images/DL.jpg" alt="machineLearning logo" width="13%" title='Deep learning'/>
+  <img src ="/assets/images/DL.jpg" alt="machineLearning logo" width="8%" height="5%" title='Deep learning'/>
 
   <img src ="/assets/images/opencv.png" alt="opencv logo" width="10%" title='Opencv'/>
 </div>
