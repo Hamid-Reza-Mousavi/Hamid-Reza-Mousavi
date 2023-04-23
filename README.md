@@ -22,7 +22,7 @@
   
   <img src ="/assets/images/css.png" alt="CSS logo" width="5%" title='CSS'/>
   
-    <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+   <img src ="/assets/images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
 
   <div> 
  
