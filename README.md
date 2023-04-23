@@ -42,19 +42,7 @@
 ### Contact Me
 
 <div>
-<a href="https://www.jepbura.ir" target="_blank"><img src ="/assets/images/web.png" alt="ubuntu logo" width="5%" title='www.jepbura.ir'/></a>
-<a href="https://www.facebook.com/jepbura" target="_blank"><img src ="/assets/images/facebook.png" alt="facebook logo" width="10%" title='Facebook'/></a>
-<a href="https://www.instagram.com/jepbura" target="_blank"><img src ="/assets/images/instagram.png" alt="instagram logo" width="5%" title='Instagram'/></a>
 <a href="https://www.linkedin.com/in/jepbura" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="10%" title='Linkedin'/></a>
-<a href="https://twitter.com/jepbura" target="_blank"><img src ="/assets/images/twitter.svg" alt="twitter logo" width="5%" title='Twitter'/></a>
 <a href="https://t.me/jepbura" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-<a href="https://www.youtube.com/channel/UCAuHfV-1WFEO_rKogAXzKmw" target="_blank"><img src ="/assets/images/youtube.svg" alt="youtube logo" width="5%" title='Youtube'/></a>
 </div>
   
-<!---
-- [Website](https://www.jepbura.ir "www.jepbura.ir")
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jepbura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
---->
