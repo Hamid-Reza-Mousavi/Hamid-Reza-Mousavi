@@ -35,9 +35,6 @@
   <img src ="/assets/images/office.png" alt="VS Code logo" width="5%" title='Office'/>
   
 </div>
-  
-  
-%![](/assets/gif/ai2.gif)
 
 ### Contact Me
 
