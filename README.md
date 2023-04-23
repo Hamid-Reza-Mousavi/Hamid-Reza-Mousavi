@@ -35,7 +35,7 @@
   
   <img src ="/assets/images/imblearn.png" alt="machineLearning logo" width="10%"  title='imbalanced-learn'/>
   
-  <img src ="/assets/images/catboost.png" alt="machineLearning logo" width="13%"  title='Catboost'/>
+  <img src ="/assets/images/catboost.png" alt="machineLearning logo" width="12%"  title='Catboost'/>
   
   <img src ="/assets/images/xgboost_v2.png" alt="machineLearning logo" width="10%"  title='XGBoost'/>
   
