@@ -14,8 +14,8 @@
   
   <img src ="/assets/images/DL.jpg" alt="machineLearning logo" width="8%" height="5%" title='Deep learning'/>
   
-  <img src ="/assets/images/pandas.png" alt="machineLearning logo" width="8%" height="7%" title='Pandas'/>
-  <img src ="/assets/images/numpy.png" alt="machineLearning logo" width="8%" height="7%" title='Numpy'/>
+  <img src ="/assets/images/pandas.png" alt="machineLearning logo" width="8%" height="13%" title='Pandas'/>
+  <img src ="/assets/images/numpy.png" alt="machineLearning logo" width="8%" height="13%" title='Numpy'/>
   <img src ="/assets/images/sklearn.png" alt="machineLearning logo" width="8%" height="7%" title='scikit-learn'/>
   <img src ="/assets/images/matplotlib.jpg" alt="machineLearning logo" width="8%" height="7%" title='Matplotlib'/>
   <img src ="/assets/images/seaborn.jpg" alt="machineLearning logo" width="8%" height="7%" title='Seaborn'/>
