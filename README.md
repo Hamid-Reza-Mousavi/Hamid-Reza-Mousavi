@@ -10,7 +10,7 @@
 <div>
   <img src ="/assets/images/anaconda.png" alt="anaconda logo" width="6%" title='Anaconda'/>
 
-  <img src ="/assets/images/machineLearning.png" alt="machineLearning logo" width="13%" title='Machine learning'/>
+  <img src ="/assets/images/machineLearning.png" alt="machineLearning logo" width="8%" title='Machine learning'/>
   
   <img src ="/assets/images/DL.jpg" alt="machineLearning logo" width="13%" title='Deep learning'/>
 
