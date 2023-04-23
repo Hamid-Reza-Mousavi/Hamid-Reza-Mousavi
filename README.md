@@ -31,7 +31,15 @@
   
   <img src ="/assets/images/matplotlib.jpg" alt="machineLearning logo" width="10%" title='Matplotlib'/>
   
-  <img src ="/assets/images/seaborn.jpg" alt="machineLearning logo" width="10%"  title='Seaborn'/>
+  <img src ="/assets/images/scipy.png" alt="machineLearning logo" width="10%"  title='Scipy'/>
+  
+  <img src ="/assets/images/imblearn.png" alt="machineLearning logo" width="10%"  title='imbalanced-learn'/>
+  
+  <img src ="/assets/images/catboost.png" alt="machineLearning logo" width="10%"  title='Catboost'/>
+  
+  <img src ="/assets/images/xgboost_v2.png" alt="machineLearning logo" width="10%"  title='XGBoost'/>
+  
+  <img src ="/assets/images/LGB.png" alt="machineLearning logo" width="10%"  title='LightGBM'/>
   
   <img src ="/assets/images/opencv.png" alt="opencv logo" width="10%" title='Opencv'/>
 </div>
