@@ -66,22 +66,6 @@
   
   <img src ="/assets/images/office.png" alt="office" width="5%" title='Office'/>
 
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0001-3285-0937"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0001-3285-0937
-    </a>
-  
-</div>
-
 ### Contact Me
 
 <div>
