@@ -9,11 +9,5 @@
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
 --->
 
-
-### Contact Me
-
-<div>
-<a href="https://www.linkedin.com/in/hamid-reza-mousavi/" target="_blank"><img src ="/assets/images/linkedin.svg" alt="linkedin logo" width="10%" title='Linkedin'/></a>
-<a href="https://t.me/Esfahani98" target="_blank"><img src ="/assets/images/telegram.png" alt="telegram logo" width="5%" title='Telegram'/></a>
-</div>
+#### ✉️ Contact Me esfahani311@gmail.com
   
