@@ -1,4 +1,4 @@
-<h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
+<h1 align="center"> Hi there 👋 </h1>
 
 [![](https://github.com/ORCID/ORCID-Source/workflows/ORCID-Source%20CI/badge.svg)](https://orcid.org/0009-0001-3285-0937)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Seyed-Hamid-Mousavi-2)
