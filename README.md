@@ -5,7 +5,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=fa&user=ClV_bQ4AAAAJ)
 
 
-Hey there! I'm `Hamid Reza`, hailing from the beautiful city of Isfahan, Iran. As a `petroleum engineer` with over two years of hands-on experience in programming, `machine learning (ML)`, and `deep learning (DL)`, I've navigated and conquered a range of complex projects. My innovative approach and technical expertise have been the driving forces behind my success in the field.
+Hey there! I'm `Hamid Reza`, hailing from the beautiful city of Isfahan, Iran. As a `petroleum engineer`🛢 with over two years of hands-on experience in programming 💻, `machine learning (ML)`, and `deep learning (DL)`, I've navigated and conquered a range of complex projects. My innovative approach and technical expertise have been the driving forces behind my success in the field.
 
 <!---
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
